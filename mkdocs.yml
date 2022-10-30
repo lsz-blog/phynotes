@@ -6,6 +6,11 @@ strict: false
 
 copyright: "Copyright &copy; 2022 Shuzhou Liu"
 
+nav:
+  - 初中物理:
+    - 声学:
+      - 声波的产生与传播: cz/sound/soundwaves.md
+
 theme:
   name: material
   language: zh
