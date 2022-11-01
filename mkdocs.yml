@@ -8,8 +8,9 @@ copyright: "Copyright &copy; 2022 Shuzhou Liu"
 
 nav:
   - 初中物理:
-    - 声学:
-      - 声波的产生与传播: cz/sound/soundwaves.md
+    - 物理入门:
+      - 测量:
+        - 测量的概念: cz/intro/measure/concept.md
 
 theme:
   name: material
